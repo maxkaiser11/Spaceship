@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Dev/MonoGame-Projects/Spaceship/Content/asteroid.png","C:/Dev/MonoGame-Projects/Spaceship/Content/bin/DesktopGL/Content/asteroid.xnb","TextureProcessor","Texture2DContent",17495,53893,0.0859153
+"C:/Dev/MonoGame-Projects/Spaceship/Content/ship.png","C:/Dev/MonoGame-Projects/Spaceship/Content/bin/DesktopGL/Content/ship.xnb","TextureProcessor","Texture2DContent",3015,27285,0.0028684
+"C:/Dev/MonoGame-Projects/Spaceship/Content/space.png","C:/Dev/MonoGame-Projects/Spaceship/Content/bin/DesktopGL/Content/space.xnb","TextureProcessor","Texture2DContent",1018006,12582997,0.2651405
+"C:/Dev/MonoGame-Projects/Spaceship/Content/spaceFont.spritefont","C:/Dev/MonoGame-Projects/Spaceship/Content/bin/DesktopGL/Content/spaceFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,136226,0.0818207
+"C:/Dev/MonoGame-Projects/Spaceship/Content/timerFont.spritefont","C:/Dev/MonoGame-Projects/Spaceship/Content/bin/DesktopGL/Content/timerFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70690,0.0222781

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\MonoGame-Projects\\Spaceship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6F8229-ABAB-47C1-8158-1E638DFBFB90}|Spaceship.csproj|c:\\dev\\monogame-projects\\spaceship\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6F8229-ABAB-47C1-8158-1E638DFBFB90}|Spaceship.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6F8229-ABAB-47C1-8158-1E638DFBFB90}|Spaceship.csproj|c:\\dev\\monogame-projects\\spaceship\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6F8229-ABAB-47C1-8158-1E638DFBFB90}|Spaceship.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6F8229-ABAB-47C1-8158-1E638DFBFB90}|Spaceship.csproj|c:\\dev\\monogame-projects\\spaceship\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6F8229-ABAB-47C1-8158-1E638DFBFB90}|Spaceship.csproj|solutionrelative:ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6F8229-ABAB-47C1-8158-1E638DFBFB90}|Spaceship.csproj|c:\\dev\\monogame-projects\\spaceship\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB6F8229-ABAB-47C1-8158-1E638DFBFB90}|Spaceship.csproj|solutionrelative:asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Dev\\MonoGame-Projects\\Spaceship\\Controller.cs",
+              "RelativeDocumentMoniker": "Controller.cs",
+              "ToolTip": "C:\\Dev\\MonoGame-Projects\\Spaceship\\Controller.cs",
+              "RelativeToolTip": "Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:19:50.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asteroid.cs",
+              "DocumentMoniker": "C:\\Dev\\MonoGame-Projects\\Spaceship\\Asteroid.cs",
+              "RelativeDocumentMoniker": "Asteroid.cs",
+              "ToolTip": "C:\\Dev\\MonoGame-Projects\\Spaceship\\Asteroid.cs",
+              "RelativeToolTip": "Asteroid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:01:30.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Dev\\MonoGame-Projects\\Spaceship\\Ship.cs",
+              "RelativeDocumentMoniker": "Ship.cs",
+              "ToolTip": "C:\\Dev\\MonoGame-Projects\\Spaceship\\Ship.cs",
+              "RelativeToolTip": "Ship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:32:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Dev\\MonoGame-Projects\\Spaceship\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Dev\\MonoGame-Projects\\Spaceship\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFsAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:26:34.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
